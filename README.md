@@ -6,6 +6,8 @@ Quanto as soluções open-source, temos como principal objetivo: Melhorar a vida
 De fato, atualmente este feedback pode não ser algo que faça muito sentido. Mas caso você tenha certa vontade, mande para o e-mail: suporte@rantool.com. 
 Eu gostaria muito de ouvir o que você tem para falar.
 ## Equipe
+
 | Nome | Função |
+| --- | --- |
 | Pedro Makoski | Desenvolvedor Full Stack. Go, Angular e Next.js - ainda nos estágios inicias |
 | Pedro Henrique S.B.S | Desenvolvedor Full Stack |
