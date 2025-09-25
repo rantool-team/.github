@@ -9,5 +9,5 @@ Eu gostaria muito de ouvir o que você tem para falar.
 
 | Nome | Função |
 | --- | --- |
-| Pedro Makoski | Desenvolvedor Full Stack. Go, Angular e Next.js - ainda nos estágios inicias |
+| Pedro Makoski | Desenvolvedor Full Stack. Go, Angular e Next.js |
 | Pedro Henrique S.B.S | Desenvolvedor Full Stack |
